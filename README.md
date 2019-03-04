@@ -52,3 +52,19 @@ Para desenvolver para iOS voce precisa ter um Mac com o Xcode 9.0 ou mais novo i
 	`$ pod setup`
 
 	Obs: Se algum desses comandos falhar, execute `$ brew doctor` e siga as instruções para resolver qualquer problema.
+
+## Criando e executando seu primeiro projeto
+
+Para criar e testar seus primeiros apps, execute esses comandos:
+
+1. Crie seu primeiro projeto executando essa linha de comando no terminal: 
+
+	`$  flutter create meu_app`
+
+2. Um diretório `meu_app` foi criado, contendo o aplicativo inicial do Flutter. Entre neste diretório: 
+
+	`$  cd my_app`
+
+3. Para iniciar o aplicativo no Simulador, assegure-se de que o Simulador esteja em execução e execute no terminal:
+
+	`$ flutter run`
