@@ -45,11 +45,11 @@ Para desenvolver para iOS voce precisa ter um Mac com o Xcode 9.0 ou mais novo i
 
 3. Instale as ferramentas para implantar aplicativos Flutter em dispositivos iOS executando os seguintes comandos:
 
-	`$ brew install --HEAD usbmuxd`
-	`$ brew link usbmuxd`
-	`$ brew install --HEAD libimobiledevice`
-	`$ brew install ideviceinstaller ios-deploy cocoapods`
-	`$ pod setup`
+	`$ brew install --HEAD usbmuxd`  
+	`$ brew link usbmuxd`  
+	`$ brew install --HEAD libimobiledevice`  
+	`$ brew install ideviceinstaller ios-deploy cocoapods`  
+	`$ pod setup`  
 
 	Obs: Se algum desses comandos falhar, execute `$ brew doctor` e siga as instruções para resolver qualquer problema.
 
