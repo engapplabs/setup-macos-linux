@@ -15,9 +15,7 @@
 
 Usuário do Linux, para continuar, você precisa configurar o [Android Studio](https://github.com/engapplabs/setup-macos-linux/blob/master/android-studio-setup.md).
 
-# OS X (Mac)
-
-# iOS Setup
+# iOS Setup (Apenas Mac)
 
 ### Instalar Xcode
 
