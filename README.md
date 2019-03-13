@@ -1,6 +1,6 @@
 # OS X (Mac) / Linux
 
-1. Faça o download da ultima versão do Flutter estável para Mac [aqui](https://storage.googleapis.com/flutter_infra/releases/stable/macos/flutter_macos_v1.2.1-stable.zip "aqui")e para Linux [aqui] (https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.2.1-stable.tar.xz).
+1. Faça o download da ultima versão do Flutter estável para Mac [aqui](https://storage.googleapis.com/flutter_infra/releases/stable/macos/flutter_macos_v1.2.1-stable.zip "aqui") e para Linux [aqui](https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.2.1-stable.tar.xz "aqui").
 2. Extraia o conteúdo .zip para alguma pasta, ela será o caminho da SDK, escolha com cuidado.
 
 # Atualizando o PATH
